@@ -1,0 +1,238 @@
+% ------------------------------------------------------------------------
+% ------------------------------------------------------------------------
+% ICMC: Modelo de Trabalho Acadêmico (tese de doutorado, dissertação de
+% mestrado e trabalhos monográficos em geral) em conformidade com 
+% ABNT NBR 14724:2011: Informação e documentação - Trabalhos acadêmicos -
+% Apresentação
+% ------------------------------------------------------------------------
+% ------------------------------------------------------------------------
+
+% Opções: 
+%   Qualificação          = qualificacao 
+%   Curso                 = doutorado/mestrado
+%   Situação do trabalho  = pre-defesa/pos-defesa (exceto para qualificação)
+%   Versão para impressão = impressao
+\documentclass[qualificacao]{packages/icmc}
+
+% ---------------------------------------------------------------------------
+% Pacotes Opcionais
+% ---------------------------------------------------------------------------
+\usepackage{rotating}           % Usado para rotacionar o texto
+\usepackage[all,knot,arc,import,poly]{xy}   % Pacote para desenhos gráficos
+% Este pacote pode conflitar com outros pacotes gráficos como o ``pictex''
+% Então é necessário usar apenas um dos pacotes conflitantes
+\newcommand{\VerbL}{0.52\textwidth}
+\newcommand{\LatL}{0.42\textwidth}
+
+% ---------------------------------------------------------------------------
+
+
+
+
+
+
+
+% ---
+% Informações de dados para CAPA e FOLHA DE ROSTO
+% ---
+% Tanto na capa quanto nas folhas de rosto apenas a primeira letra da primeira palavra (ou nomes próprios) devem estar em letra maiúscula, todas as demais devem ser em letra minúscula.
+\tituloPT{Sistema para acompanhamento de animais perdidos}
+\tituloEN{System for Tracking Lost Animals}
+\autor[Último, P. S.]{Sávio Kauan Silveira Lopes}
+\genero{M} % Gênero do autor (M = Masculino / F = Feminino)
+\orientador[Orientador]{Prof. Dr.}{George Gabriel Mendes Dourado}
+%\coorientador{Prof. Dr.}{Fulano de Tal}
+\curso{CCMC}
+\data{29}{06}{2019} % Data do depósito
+\idioma{PT} % Idioma principal do documento (PT = português / EN = inglês)
+% ---
+
+
+
+% ---
+% RESUMOS
+% ---
+
+% Resumo em PORTUGUÊS
+% conter no máximo 500 palavras
+% conter no mínimo 1 e no máximo 5 palavras-chave
+\textoresumo[brazil]{
+     Este trabalho é um breve modelo  para a escrita de monografias de qualificação, dissertações e teses utilizando o ambiente \LaTeX, de acordo com as normas exigidas pelo Instituto de Ciências Matemáticas e de Computação (ICMC), da Universidade de São Paulo (USP). Para a confecção deste modelo foi utilizado a última versão (1.9.6) do pacote de classes \textit{abnTeX2} que segue as normas da Associação Brasileira de Normas Técnicas. A elaboração de uma monografia, dissertação ou tese pode ser feita sobrescrevendo o conteúdo deste modelo. 
+}{Modelo, Monografia de qualificação, Dissertação, Tese, Latex}
+
+
+% resumo em INGLÊS
+% conter no máximo 500 palavras
+% conter no mínimo 1 e no máximo 5 palavras-chave
+\textoresumo[english]{
+     This paper is a brief model for writing qualification monographs, dissertations and thesis using \LaTeX environment, in accordance with the standards required by the Institute of Mathematics and Computer Sciences (ICMC), University of São Paulo (USP). For making this model, the latest version (1.9.6) \textit{abnTeX2} classes package was used. This package follow the rules of the Brazilian Association of Technical Standards. A drafting a monograph, dissertation or thesis can be done by overwriting the contents of this model.
+}{Template, Qualification monograph, Dissertation, Thesis, Latex}
+
+
+% ----------------------------------------------------------
+% ELEMENTOS PRÉ-TEXTUAIS
+% ----------------------------------------------------------
+
+
+% Inserir a ficha catalográfica
+\incluifichacatalografica{tex/pre-textual/ficha-catalografica/ficha-catalografica}
+
+% DEDICATÓRIA / AGRADECIMENTO / EPÍGRAFE
+\textodedicatoria*{tex/pre-textual/dedicatoria/dedicatoria}
+\textoagradecimentos*{tex/pre-textual/agradecimentos/agradecimentos}
+\textoepigrafe*{tex/pre-textual/epigrafe/epigrafe}
+
+% Inclui a lista de figuras
+\incluilistadefiguras
+
+% Inclui a lista de tabelas
+\incluilistadetabelas
+
+% Inclui a lista de quadros
+\incluilistadequadros
+
+% Inclui a lista de algoritmos
+\incluilistadealgoritmos
+
+% Inclui a lista de códigos
+\incluilistadecodigos
+
+% Inclui a lista de siglas e abreviaturas
+\incluilistadesiglas
+
+% Inclui a lista de símbolos
+\incluilistadesimbolos
+
+% ----
+% Início do documento
+% ----
+\begin{document}
+% ----------------------------------------------------------
+% ELEMENTOS TEXTUAIS
+% ----------------------------------------------------------
+\textual
+
+\chapter{Introdução}
+\label{chapter:introducao}
+\input{tex/introducao}
+
+\chapter{Objetivos} 
+\label{chapter:objetivos}
+\input{tex/objetivos}
+
+\chapter{Definição do Problema}
+\label{chapter:definicao-do-problema}
+\input{tex/definicao-do-problema}
+
+\chapter{Hipótese}
+\label{chapter:hipotese}
+\input{tex/hipotese}
+
+\chapter{Justificativa}
+\label{chapter:justificativa}
+\input{tex/justificativa}
+
+\chapter{Revisão Bibliográfica/Teórica}
+\label{chapter:revisao-bibliografica-teorica}
+\input{tex/revisao-bibliografica-teorica}
+
+\chapter{Metodologia}
+\label{chapter:metodologia}
+\input{tex/metodologia}
+
+%\chapter{Resultados Esperados}
+%\label{chapter:resultados-esperados}
+%\input{tex/resultados-esperados}
+
+%\chapter{Cronograma}
+%\label{chapter:cronograma}
+%\input{tex/cronograma}
+
+\chapter{Resultados e Discussão}
+\label{chapter:resultados-discussao}
+\input{tex/resultados-discussao}
+
+\chapter{Conclusão}
+\label{chapter:conclusao}
+\input{tex/conclusao}
+
+
+
+
+% ---
+% Finaliza a parte no bookmark do PDF, para que se inicie o bookmark na raiz
+% ---
+\bookmarksetup{startatroot}% 
+% ---
+
+% ----------------------------------------------------------
+% ELEMENTOS PÓS-TEXTUAIS
+% ----------------------------------------------------------
+\postextual
+
+% ----------------------------------------------------------
+% Referências bibliográficas Título da Pesquisa em Inglês
+% ----------------------------------------------------------
+\bibliography{references}
+
+% ---------------------------------------------------------------------
+% GLOSSÁRIO
+% ---------------------------------------------------------------------
+
+% Arquivo que contém as definições que vão aparecer no glossário
+%\input{tex/glossario}
+% Comando para incluir todas as definições do arquivo glossario.tex
+%\glsaddall
+% Impressão do glossário
+%\printglossaries
+
+% ----------------------------------------------------------
+% Apêndices
+% ----------------------------------------------------------
+
+% ---
+% Inicia os apêndices
+% ---
+\begin{apendicesenv}
+
+% Apêndice A
+\chapter{Título do Apêndice A}
+\label{chapter:apendicea}
+
+% Apêndice B
+\chapter{Título do Apêndice B}
+\label{chapter:apendiceb}
+
+\end{apendicesenv}
+% --- 
+
+
+% ----------------------------------------------------------
+% Anexos
+% ----------------------------------------------------------
+
+% ---
+% Inicia os anexos
+% ---
+\begin{anexosenv}
+
+\chapter{Título do Anexo A} 
+\label{chapter:anexoa}
+
+% CONFIGURAÇÕES DE PDF
+\section{CONFIGURAÇÕES DE PDF}
+
+%inserindo uma página em branco depois da página 1
+%\includepdf[pages={1,{},2-10}]{arquivo03.pdf}
+
+%inserindo múltiplas páginas numa única página
+%\includepdf[pages={286-291},nup=2x3]{arquivo05.pdf}
+
+\chapter{Título do Anexo B} 
+\label{chapter:anexob}
+
+\end{anexosenv}
+% ---
+
+
+\end{document}

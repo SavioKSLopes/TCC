@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tcc-ifbaiano.aux
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+The style file: packages/abntex2-alf-USPSC.bst
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+"t" can't follow a literal---line 1293 of file packages/abntex2-alf-USPSC.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Database file #1: abntex2-options.bib
+Database file #2: references.bib
+Warning--I didn't find a database entry for "barwaldt:2008"
+Warning--I didn't find a database entry for "naidson:2017"
+Warning--I didn't find a database entry for "EspiritoSanto1987"
+Warning--I didn't find a database entry for "DeRose2015"
+Warning--I didn't find a database entry for "Novak1967"
+Warning--I didn't find a database entry for "Smith2014"
+Warning--I didn't find a database entry for "Dias2014"
+Warning--I didn't find a database entry for "Giannini2000"
+Warning--I didn't find a database entry for "Pasquarelli1987"
+Warning--I didn't find a database entry for "an:2013"
+Warning--I didn't find a database entry for "huegel:2015"
+Warning--I didn't find a database entry for "delvecchio1995"
+Warning--I didn't find a database entry for "apae:2006"
+Warning--I didn't find a database entry for "carniel:2015"
+Warning--I didn't find a database entry for "brasil:2008"
+Warning--I didn't find a database entry for "barbosa:2016"
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 12 entries,
+            6708 wiz_defined-function locations,
+            1232 strings with 9903 characters,
+and the built_in function-call counts, 3582 in all, are:
+= -- 323
+> -- 3
+< -- 3
++ -- 57
+- -- 3
+* -- 135
+:= -- 398
+add.period$ -- 0
+call.type$ -- 15
+change.case$ -- 36
+chr.to.int$ -- 13
+cite$ -- 0
+duplicate$ -- 45
+empty$ -- 544
+format.name$ -- 0
+if$ -- 1032
+int.to.chr$ -- 11
+int.to.str$ -- 3
+missing$ -- 123
+newline$ -- 8
+num.names$ -- 0
+pop$ -- 66
+preamble$ -- 1
+purify$ -- 36
+quote$ -- 0
+skip$ -- 609
+stack$ -- 1
+substring$ -- 104
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 2
+width$ -- 0
+write$ -- 8
+(There was 1 error message)

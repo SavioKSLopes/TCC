@@ -1,0 +1,52 @@
+\babel@toc {brazil}{}\relax
+\babel@toc {brazil}{}\relax
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax
+\babel@toc {english}{}\relax
+\babel@toc {brazil}{}\relax
+\babel@toc {brazil}{}\relax
+\babel@toc {brazil}{}\relax
+\babel@toc {brazil}{}\relax
+\babel@toc {brazil}{}\relax
+\babel@toc {brazil}{}\relax
+\babel@toc {brazil}{}\relax
+\babel@toc {english}{}\relax
+\babel@toc {brazil}{}\relax
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Introdução}}{17}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Objetivos}}{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Objetivo Geral}{19}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Objetivos Específicos}{19}{section.2.2}%
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Definição do Problema}}{20}{chapter.3}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Hipótese}}{21}{chapter.4}%
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Justificativa}}{22}{chapter.5}%
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Revisão Bibliográfica/Teórica}}{23}{chapter.6}%
+\contentsline {section}{\numberline {6.1}O Desaparecimento de Animais de Estimação no Brasil}{23}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Plataformas digitais e sistemas web}{23}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Usabilidade e acessibilidade em sistemas web}{24}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Proteção de dados e legislação}{25}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Considerações finais}{25}{section.6.5}%
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase []{Metodologia}}{26}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Delineamento da Pesquisa}{26}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Participantes}{26}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Local de Coleta de Dados}{26}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Equipamentos e Recursos}{26}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Instrumentos para coleta de dados}{26}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Instrumento A}{26}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Ferramentas Utilizadas}{26}{subsection.7.5.2}%
+\contentsline {section}{\numberline {7.6}Procedimentos de Coleta de Dados}{26}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Procedimentos de Análise de Dados}{26}{section.7.7}%
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase []{Resultados e Discussão}}{27}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Título I}{27}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Sub-Título I}{27}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Sub-Título II}{27}{subsection.8.1.2}%
+\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase []{Conclusão}}{28}{chapter.9}%
+\vspace {\cftbeforechapterskip }
+\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{29}{section*.26}%
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase []{Título do Apêndice A}}{30}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase []{Título do Apêndice B}}{31}{appendix.B}%
+\cftinsert {AAA}
+\renewcommand *{\cftappendixname }{ANEXO \space }
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase []{Título do Anexo A}}{32}{appendix.anexochapback.1}%
+\contentsline {section}{\numberline {A.1}CONFIGURAÇÕES DE PDF}{32}{section.anexochapback.1.1}%
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase []{Título do Anexo B}}{33}{appendix.anexochapback.2}%
