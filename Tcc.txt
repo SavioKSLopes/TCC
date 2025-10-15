@@ -1,0 +1,16 @@
+1- Alerta comunitário em tempo real
+	Como funciona: Ao registrar um animal perdido, o sistema envia notificações push para todos os usuários próximos (no raio configurado).
+	Impacto: Aumenta o engajamento da comunidade local para ajudar na busca.
+	Ferramentas: Firebase Cloud Messaging, OneSignal.
+
+2- Ferramentas de Cadastro prévio e monitoramento dos animais encontrados
+	
+	O Usuário poderia cadastrar seu pet previamente no sistema, assim como poderia haver ferramentas que auxiliem o reconhecimento do animal caso ele volte a fugir,
+	como um QR code de identificação(que poderia ser preso à coleira do pet, por exemplo)
+
+
+3- Chat seguro entre os donos e achadores
+	Um chat com intermediação do sistema para proteger dados pessoais, para assim oferecer uma comunicação alternativa para os donos dos pets e 
+	os achadores. 
+
+4 Criação de Perfis de Usuários onde são registradas suas atividades e seus pedidos registrados de animais perdidos.
