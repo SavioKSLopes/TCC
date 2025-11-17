@@ -5,4 +5,289 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[{Alura} 2021]{alura2021kanban}
+\abntrefinfo{{Alura}}{{Alura}}{2021}
+{{Alura}. \textbf{Kanban: o que é, o Método Kanban, principais conceitos e
+  como funciona}. 2021.
+Acesso em: 24 out. 2025.
+Dispon{\'\i}vel em: \url{https://www.alura.com.br/artigos/metodo-kanban}.}
+
+\bibitem[{Atlassian} 2015]{atlassian2015scrum}
+\abntrefinfo{{Atlassian}}{{Atlassian}}{2015}
+{{Atlassian}. \textbf{Scrum}. 2015.
+Acesso em: 24 out. 2025.
+Dispon{\'\i}vel em: \url{https://www.atlassian.com/br/agile/scrum}.}
+
+\bibitem[{BetterStack} 2024]{betterstack2024django}
+\abntrefinfo{{BetterStack}}{{BetterStack}}{2024}
+{{BetterStack}. \textbf{Building CRUD Applications with Django and PostgreSQL}.
+  2024.
+Acesso em: 26 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://betterstack.com/community/guides/scaling-python/django-postgresql/}.}
+
+\bibitem[{BetterStack} 2025]{betterstack2025docker}
+\abntrefinfo{{BetterStack}}{{BetterStack}}{2025}
+{{BetterStack}. \textbf{Containerizing Django Applications with Docker}. 2025.
+Acesso em: 26 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://betterstack.com/community/guides/scaling-python/dockerize-django/}.}
+
+\bibitem[Bioni 2019]{Bioni2019}
+\abntrefinfo{Bioni}{Bioni}{2019}
+{BIONI, B.~R. \textbf{Proteção de dados pessoais: a função e os limites do
+  consentimento}. Rio de Janeiro: Forense, 2019.}
+
+\bibitem[{Brasil} 2018]{Brasil2018}
+\abntrefinfo{{Brasil}}{{Brasil}}{2018}
+{{Brasil}. \textbf{Lei n{\textordmasculine} 13.709, de 14 de agosto de 2018 -
+  Lei Geral de Prote{\c{c}}{\~a}o de Dados Pessoais (LGPD)}. 2018.
+Dispon{\'\i}vel em:
+  \url{https://www.planalto.gov.br/ccivil\_03/\_ato2015-2018/2018/lei/l13709.htm}.}
+
+\bibitem[Castells 2003]{Castells2003}
+\abntrefinfo{Castells}{Castells}{2003}
+{CASTELLS, M. \textbf{A Gal{\'a}xia da Internet: reflex{\~o}es sobre a
+  internet, os neg{\'o}cios e a sociedade}. Rio de Janeiro: Zahar, 2003.}
+
+\bibitem[{Conselho Regional de Medicina Veterinária do Estado de São Paulo}
+  2024]{CRMVSP2024}
+\abntrefinfo{{Conselho Regional de Medicina Veterinária do Estado de São
+  Paulo}}{{Conselho Regional de Medicina Veterinária do Estado de São
+  Paulo}}{2024}
+{{Conselho Regional de Medicina Veterinária do Estado de São Paulo}.
+  \textbf{61\% dos tutores consideram o pet como membro da família, diz
+  pesquisa}. 2024. Disponível em:
+  \url{https://crmvsp.gov.br/61-dos-tutores-consideram-o-pet-como-membro-da-familia-diz-pesquisa-gasto-mensal-e-de-r-189/}.
+Acesso em: 22 out. 2025.}
+
+\bibitem[{Creative Science} 2025]{creative2025petqr}
+\abntrefinfo{{Creative Science}}{{Creative Science}}{2025}
+{{Creative Science}. \textbf{Advanced Pet Identification with QR Code
+  Technology}. 2025.
+Acesso em: 26 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://creative.science/education/advanced-pet-identification-with-qr-code-technology/}.}
+
+\bibitem[{DIO} 2024]{dio2024scrum}
+\abntrefinfo{{DIO}}{{DIO}}{2024}
+{{DIO}. \textbf{Método Ágil Scrum: Um Guia para Entender suas Principais
+  Fases}. 2024.
+Acesso em: 24 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.dio.me/articles/metodo-agil-scrum-um-guia-para-entender-suas-principais-fases}.}
+
+\bibitem[{Docker} 2025]{docker2025django}
+\abntrefinfo{{Docker}}{{Docker}}{2025}
+{{Docker}. \textbf{Dockerize a Django App: Step-by-Step Guide for Beginners}.
+  2025.
+Acesso em: 26 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.docker.com/blog/how-to-dockerize-django-app/}.}
+
+\bibitem[{Estratégia Concursos} 2023]{estrategia2023scrum}
+\abntrefinfo{{Estratégia Concursos}}{{Estratégia Concursos}}{2023}
+{{Estratégia Concursos}. \textbf{Scrum: Entenda como funciona este Framework}.
+  2023.
+Acesso em: 24 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.estrategiaconcursos.com.br/blog/scrum-como-funciona-framework/}.}
+
+\bibitem[{Faculdade de Minas Gerais} 2024]{FAMIG2024}
+\abntrefinfo{{Faculdade de Minas Gerais}}{{Faculdade de Minas Gerais}}{2024}
+{{Faculdade de Minas Gerais}. \textbf{Família multiespécie: a guarda de
+  animais de estimação na dissolução da união estável}. 2024. Disponível
+  em:
+  \url{https://periodicos.famig.edu.br/index.php/direito/article/download/320/258}.
+Acesso em: 22 out. 2025.}
+
+\bibitem[{FIA} 2024]{fia2024scrum}
+\abntrefinfo{{FIA}}{{FIA}}{2024}
+{{FIA}. \textbf{Scrum: o que é e como aplicar a metodologia ágil para
+  gestão?} 2024.
+Acesso em: 24 out. 2025.
+Dispon{\'\i}vel em: \url{https://fia.com.br/blog/scrum/}.}
+
+\bibitem[{Gateware} 2024]{gateware2024sprints}
+\abntrefinfo{{Gateware}}{{Gateware}}{2024}
+{{Gateware}. \textbf{Sprints do Scrum: entenda as 4 etapas da Metodologia}.
+  2024.
+Acesso em: 24 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://gateware.com.br/en/blog/4-etapas-sprints-scrum/}.}
+
+\bibitem[{Honeybadger} 2025]{honeybadger2025postgis}
+\abntrefinfo{{Honeybadger}}{{Honeybadger}}{2025}
+{{Honeybadger}. \textbf{Handling spatial data in Django using PostGIS}. 2025.
+Acesso em: 26 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.honeybadger.io/blog/spatial-data-in-django/}.}
+
+\bibitem[{Instituto Pet Brasil} 2024]{IPB2024}
+\abntrefinfo{{Instituto Pet Brasil}}{{Instituto Pet Brasil}}{2024}
+{{Instituto Pet Brasil}. \textbf{Cresce número de animais de estimação no
+  Brasil, superando 160 milhões de pets}. 2024. Disponível em:
+  \url{https://caesegatos.com.br/cresce-numero-de-animais-de-estimacao-no-brasil-superando-160-milhoes-de-pets/}.
+Acesso em: 22 out. 2025.}
+
+\bibitem[{Interaction Design Foundation} 2025]{ixdf2025design}
+\abntrefinfo{{Interaction Design Foundation}}{{Interaction Design
+  Foundation}}{2025}
+{{Interaction Design Foundation}. \textbf{The 5 Stages in the Design Thinking
+  Process}. 2025.
+Acesso em: 24 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process}.}
+
+\bibitem[{International Organization for Standardization} 2018]{ISO2018}
+\abntrefinfo{{International Organization for Standardization}}{{International
+  Organization for Standardization}}{2018}
+{{International Organization for Standardization}. \textbf{ISO 9241-11:2018
+  Ergonomics of human-system interaction – Part 11: Usability: Definitions
+  and concepts}. 2018.
+Dispon{\'\i}vel em: \url{https://www.iso.org/standard/63500.html}.}
+
+\bibitem[{IstoÉ Pet} 2024]{IstoePet2024}
+\abntrefinfo{{IstoÉ Pet}}{{IstoÉ Pet}}{2024}
+{{IstoÉ Pet}. \textbf{Dezembro verde: precisamos falar sobre o abandono de
+  pets}. 2024. Disponível em:
+  \url{https://pet.istoe.com.br/dezembro-verde-precisamos-falar-sobre-o-abandono-de-pets}.
+Acesso em: 22 out. 2025.}
+
+\bibitem[Lazzari 2024]{DeLazzari2024}
+\abntrefinfo{Lazzari}{Lazzari}{2024}
+{LAZZARI, L. D. \textbf{Animais de estimação: como contribuem para a saúde
+  mental}. 2024. Disponível em:
+  \url{https://www.psicologosberrini.com.br/blog/animais-estimacao-ajudar-saude-mental/}.
+Acesso em: 22 out. 2025.}
+
+\bibitem[{Mars Petcare} 2022]{Mars2022}
+\abntrefinfo{{Mars Petcare}}{{Mars Petcare}}{2022}
+{{Mars Petcare}. \textbf{Um em cada tr{\^e}s animais de estima{\c{c}}{\~a}o
+  est{\'a} desabrigado no mundo}. 2022.
+Dispon{\'\i}vel em:
+  \url{https://www.mars.com/pt-br/news-and-stories/press-releases-statements/1-em-cada-3-animais-de-estimacao-esta-desabrigado-de}.}
+
+\bibitem[{Miro} 2024]{miro2024scrum}
+\abntrefinfo{{Miro}}{{Miro}}{2024a}
+{{Miro}. \textbf{Metodologia Scrum: o que é e como implementar? Passo a
+  passo}. 2024.
+Acesso em: 24 out. 2025.
+Dispon{\'\i}vel em: \url{https://miro.com/pt/agile/o-que-e-scrum/}.}
+
+\bibitem[{Miro} 2024]{miro2024kanban}
+\abntrefinfo{{Miro}}{{Miro}}{2024b}
+{{Miro}. \textbf{O que é um quadro Kanban? Como fazer? Modelo e exemplos}.
+  2024.
+Acesso em: 24 out. 2025.
+Dispon{\'\i}vel em: \url{https://miro.com/pt/agile/o-que-e-quadro-kanban/}.}
+
+\bibitem[{Nielsen Norman Group} 2020]{Nielsen2020}
+\abntrefinfo{{Nielsen Norman Group}}{{Nielsen Norman Group}}{2020}
+{{Nielsen Norman Group}. \textbf{Usability 101: Introduction to Usability}.
+  2020.
+Dispon{\'\i}vel em:
+  \url{https://www.nngroup.com/articles/usability-101-introduction-to-usability/}.}
+
+\bibitem[Norman e Nielsen 2013]{Norman2013}
+\abntrefinfo{Norman e Nielsen}{Norman; Nielsen}{2013}
+{NORMAN, D.~A.; NIELSEN, J. \textbf{Design emocional: por que adoramos (ou
+  detestamos) os objetos do dia a dia}. Rio de Janeiro: Rocco, 2013.}
+
+\bibitem[{NSC Total} 2024]{NSCTotal2024}
+\abntrefinfo{{NSC Total}}{{NSC Total}}{2024}
+{{NSC Total}. \textbf{Escargot, Chinchila, Abelha e outros 47 animais são
+  considerados de estimação no Brasil}. 2024. Disponível em:
+  \url{https://www.nsctotal.com.br/noticias/escargot-chinchila-abelha-e-outros-47-animais-sao-considerados-de-estimacao-no-brasil}.
+Acesso em: 22 out. 2025.}
+
+\bibitem[{PawBoost} 2024]{PawBoost2024}
+\abntrefinfo{{PawBoost}}{{PawBoost}}{2024}
+{{PawBoost}. \textbf{How we reunited 2 million lost pets}. 2024.
+Dispon{\'\i}vel em:
+  \url{https://www.pawboost.com/blog/how-we-reunited-2-million-lost-pets/}.}
+
+\bibitem[{Petco Love Lost} 2023]{PetcoLoveLost2023}
+\abntrefinfo{{Petco Love Lost}}{{Petco Love Lost}}{2023}
+{{Petco Love Lost}. \textbf{Petco Love Lost + Nextdoor Partnership}. 2023.
+Dispon{\'\i}vel em:
+  \url{https://petcolove.org/lost/articles/petco-love-lost-nextdoor-partnership/}.}
+
+\bibitem[{PetLink} 2025]{petlink2025qrtags}
+\abntrefinfo{{PetLink}}{{PetLink}}{2025}
+{{PetLink}. \textbf{QR Tags For Dogs + GPS Trackers \& Microchips}. 2025.
+Acesso em: 26 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.petlink.net/blog/qr-tags-work-get-one-furry-friend/}.}
+
+\bibitem[{Projeto Diário} 2025]{projetodiario2025integracao}
+\abntrefinfo{{Projeto Diário}}{{Projeto Diário}}{2025}
+{{Projeto Diário}. \textbf{Integração entre Scrum e Kanban: O Melhor dos
+  Dois Mundos}. 2025.
+Acesso em: 24 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.projetodiario.net.br/integracao-entre-scrum-e-kanban/}.}
+
+\bibitem[{Quanta Júnior} 2025]{quanta2025design}
+\abntrefinfo{{Quanta Júnior}}{{Quanta Júnior}}{2025}
+{{Quanta Júnior}. \textbf{Design Thinking -- como garantir ideias inovadoras
+  para o seu negócio}. 2025.
+Acesso em: 24 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://quanta.org.br/2025/02/11/design-thinking-como-garantir-ideias-inovadoras-para-o-seu-negocio/}.}
+
+\bibitem[{Revista Ibero-Americana de Humanidades, Ciências e Educação}
+  2024]{RevistaIberoAmericana2024}
+\abntrefinfo{{Revista Ibero-Americana de Humanidades, Ciências e
+  Educação}}{{Revista Ibero-Americana de Humanidades, Ciências e
+  Educação}}{2024}
+{{Revista Ibero-Americana de Humanidades, Ciências e Educação}.
+  \textbf{Animais de estimação: amor, perda e luto dos tutores}. 2024.
+  Disponível em: \url{https://periodicorease.pro.br/rease/article/view/17576}.
+Acesso em: 22 out. 2025.}
+
+\bibitem[{StudyGyaan} 2023]{studygyaan2023qrcode}
+\abntrefinfo{{StudyGyaan}}{{StudyGyaan}}{2023}
+{{StudyGyaan}. \textbf{How to Generate QR Code in Python Django}. 2023.
+Acesso em: 26 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://studygyaan.com/django/how-to-generate-a-qr-code-in-django}.}
+
+\bibitem[{SW Academy} 2025]{swacademy2025scrumban}
+\abntrefinfo{{SW Academy}}{{SW Academy}}{2025}
+{{SW Academy}. \textbf{Scrumban: Como Unir Scrum e Kanban na Prática}. 2025.
+Acesso em: 24 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://swacademy.com.br/2025/09/16/scrumban-como-unir-scrum-e-kanban-na-pratica/}.}
+
+\bibitem[{TestDriven.io} 2023]{testdriven2023docker}
+\abntrefinfo{{TestDriven.io}}{{TestDriven.io}}{2023}
+{{TestDriven.io}. \textbf{Dockerizing Django with Postgres, Gunicorn, and
+  Nginx}. 2023.
+Acesso em: 26 out. 2025.
+Dispon{\'\i}vel em:
+  \url{https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/}.}
+
+\bibitem[{Universidade Federal da Para{\'i}ba (UFPB)} 2024]{UFPB2024}
+\abntrefinfo{{Universidade Federal da Para{\'i}ba (UFPB)}}{{Universidade
+  Federal da Para{\'i}ba (UFPB)}}{2024}
+{{Universidade Federal da Para{\'i}ba (UFPB)}. \textbf{Estudo sobre abandono e
+  guarda respons{\'a}vel de animais}. 2024.
+Dispon{\'\i}vel em: \url{https://www.ufpb.br/}.}
+
+\bibitem[{World Wide Web Consortium (W3C)} 2019]{W3C2019}
+\abntrefinfo{{World Wide Web Consortium (W3C)}}{{World Wide Web Consortium
+  (W3C)}}{2019}
+{{World Wide Web Consortium (W3C)}. \textbf{Introduction to Web Accessibility}.
+  2019.
+Dispon{\'\i}vel em:
+  \url{https://www.w3.org/WAI/fundamentals/accessibility-intro/}.}
+
+\bibitem[{Ávila, Daniela Pires de} 2024]{Avila2024}
+\abntrefinfo{{Ávila, Daniela Pires de}}{{Ávila, Daniela Pires de}}{2024}
+{{Ávila, Daniela Pires de}. \textbf{Perder um pet pode causar dor intensa e
+  pouco reconhecida pela sociedade}. 2024. Disponível em:
+  \url{https://caesegatos.com.br/perder-um-pet-pode-causar-dor-intensa-e-pouco-reconhecida-pela-sociedade/}.
+Acesso em: 22 out. 2025.}
+
 \end{thebibliography}

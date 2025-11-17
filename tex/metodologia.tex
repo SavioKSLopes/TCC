@@ -1,29 +1,163 @@
 \section{Delineamento da Pesquisa}
+Este trabalho caracteriza-se como uma pesquisa aplicada, de natureza quali-quantitativa, com abordagem exploratória e descritiva, tendo como objetivo desenvolver uma solução prática para o problema de localização e reunião de animais perdidos com seus tutores. O processo de desenvolvimento seguirá o modelo incremental e iterativo baseado na metodologia ágil \textit{Scrum}, com suporte de quadro \textit{Kanban} para gestão visual do fluxo de trabalho, complementado pela aplicação do \textit{Design Thinking} nas fases iniciais para garantir que o sistema seja centrado nas reais necessidades dos usuários, justificando-se pela flexibilidade para adaptações baseadas no \textit{feedback} contínuo e pela natureza exploratória do projeto.
+
+\subsection{Design Thinking}
+\textit{Design Thinking} é uma abordagem centrada no ser humano que busca resolver problemas complexos de forma criativa e colaborativa. Ele se baseia na empatia para entender as necessidades das pessoas, utiliza a criatividade para gerar soluções inovadoras e se apoia na experimentação para validar essas soluções\cite{quanta2025design}.
+
+\begin{table}[H]
+	\centering
+	\caption{As cinco etapas do \textit{Design Thinking} segundo o modelo da \textit{d.school}}
+	\label{tab:design_thinking_5etapas}
+	\renewcommand{\arraystretch}{1.5}
+	\begin{tabular}{lp{11cm}}
+		\toprule
+		\textbf{Etapa} & \textbf{Descrição} \\
+		\midrule
+		
+		\textbf{Empatizar} & 
+		Pesquisa centrada no usuário para obter compreensão empática do problema. Envolve consultar especialistas, conduzir observações e imergir no ambiente dos usuários para entender suas necessidades, experiências e motivações. \\
+		
+		\textbf{Definir} & 
+		Organizar e analisar as informações coletadas para definir o problema central de maneira centrada no ser humano, partindo das necessidades dos usuários. \\
+		
+		\textbf{Idear} & 
+		Gerar soluções inovadoras através de técnicas como \textit{Brainstorming}, \textit{Brainwrite} e \textit{SCAMPER}, olhando o problema de diferentes perspectivas e criando o máximo de ideias possíveis. \\
+		
+		\textbf{Prototipar} & 
+		Produzir versões reduzidas e de baixo custo do produto para investigar as principais soluções. Fase experimental onde protótipos são testados e as soluções são aceitas, melhoradas ou rejeitadas. \\
+		
+		\textbf{Testar} & 
+		Testar rigorosamente o produto usando as melhores soluções identificadas. Os resultados obtidos podem levar a equipe a voltar a etapas anteriores em um processo iterativo para obter maior compreensão. \\
+		
+		\bottomrule
+	\end{tabular}
+	\fonte{Adaptado de \cite{ixdf2025design}.}
+\end{table}
+
+O \textit{Design Thinking}, modelo proposto pela \textit{d.school} de Stanford, estrutura o desenvolvimento em cinco etapas, conforme proposto pela Tabela~\ref{tab:design_thinking_5etapas}: Empatizar, Definir, Idear, Prototipar e Testar. Esta metodologia será aplicada nas fases iniciais do projeto para compreender as necessidades reais dos tutores de animais perdidos e das pessoas que encontram \textit{pets} abandonados, garantindo que as funcionalidades desenvolvidas (como geolocalização, sistema de \textit{matching} e notificações) sejam centradas nas dificuldades enfrentadas por esses usuários no processo de busca e reunião. O processo iterativo do \textit{Design Thinking} permite ajustes contínuos baseados no \textit{feedback} coletado, essencial para um sistema que lida com situações sensíveis e urgentes de animais desaparecidos.
+
+\subsection{Metodologias Ágeis: Scrum e Kanban}
+
+O desenvolvimento do sistema \textit{web} para acompanhamento de animais perdidos adotará uma abordagem que integra \textit{Scrum} e \textit{Kanban}, combinando ciclos de trabalho estruturados (\textit{Sprints}) com gestão visual de tarefas através de um quadro \textit{Kanban} \cite{atlassian2015scrum}. \textit{Scrum} é um \textit{framework} ágil que organiza o desenvolvimento em ciclos iterativos de tempo fixo, promovendo entregas incrementais e \textit{feedback} contínuo através de eventos estruturados e bem definidos \cite{fia2024scrum}. \textit{Kanban} é um método de gestão visual que utiliza cartões e colunas para representar o fluxo de trabalho, permitindo identificar gargalos e otimizar a produtividade \cite{miro2024kanban}. O quadro \textit{Kanban} será estruturado com três colunas básicas: "A Fazer" (tarefas pendentes), "Em Progresso" (tarefas sendo desenvolvidas ativamente) e "Concluído" (tarefas finalizadas e testadas), proporcionando visibilidade clara do andamento do trabalho \cite{alura2021kanban}.
+
+O \textit{Scrum} estruturará o processo de desenvolvimento através de \textit{Sprints}, ciclos iterativos que funcionam como mini-projetos com início e fim bem definidos, onde cada ciclo produz um incremento funcional do sistema \cite{dio2024scrum}. Cada \textit{Sprint} seguirá um conjunto de eventos estruturados que garantem planejamento, execução, revisão e melhoria contínua do processo de desenvolvimento \cite{miro2024scrum}.
+
+O \textbf{\textit{Sprint Planning}} (Planejamento do \textit{Sprint}) marca o início de cada ciclo e tem como objetivo responder duas questões fundamentais: o que será desenvolvido e como será desenvolvido \cite{gateware2024sprints}. Nesta reunião, é analisado o \textit{Product Backlog} (lista priorizada de todas as funcionalidades e requisitos do sistema) e selecionados os itens que serão trabalhados no \textit{Sprint} atual, considerando a capacidade de trabalho e as prioridades do projeto \cite{estrategia2023scrum}. Os itens selecionados formam o \textit{Sprint Backlog}, que representa o compromisso de trabalho para aquele ciclo específico \cite{fia2024scrum}. Durante esta etapa, as funcionalidades são decompostas em tarefas menores e técnicas, facilitando a execução e o acompanhamento do progresso \cite{dio2024scrum}. Por exemplo, uma funcionalidade como "sistema de busca de animais perdidos" pode ser dividida em tarefas como implementação da API de busca, criação da interface de filtros, integração com o banco de dados e desenvolvimento dos testes automatizados \cite{miro2024scrum}.
+
+A \textbf{\textit{Daily Scrum}} (Reunião Diária) é um evento de sincronização rápida, com duração máxima de 15 minutos, realizado diariamente durante o \textit{Sprint} \cite{dio2024scrum}. Embora o projeto seja individual, esta prática será adaptada como um momento diário de reflexão e registro de progresso, onde serão documentados três aspectos principais: o que foi realizado no dia anterior, o que será trabalhado no dia atual e quais impedimentos ou dificuldades foram identificados \cite{miro2024scrum}. Este acompanhamento diário promove autodisciplina, facilita a identificação precoce de problemas e mantém o foco nas metas do \textit{Sprint} \cite{fia2024scrum}. Adicionalmente, ocorrerão reuniões semanais com o orientador acadêmico para discutir o progresso do \textit{Sprint}, identificar problemas específicos e definir os próximos passos do desenvolvimento.
+
+Ao final de cada \textit{Sprint}, ocorre a \textbf{\textit{Sprint Review}} (Revisão do \textit{Sprint}), evento onde o incremento desenvolvido é apresentado e demonstrado \cite{estrategia2023scrum}. Nesta etapa, são verificadas quais funcionalidades foram completamente implementadas e testadas, validando se atendem aos critérios de aceitação definidos no planejamento \cite{dio2024scrum}. A revisão pode incluir testes de usabilidade com potenciais usuários do sistema, como tutores de animais perdidos ou pessoas que já encontraram \textit{pets} abandonados, coletando \textit{feedback} sobre a experiência de uso e identificando possíveis melhorias \cite{miro2024scrum}. Esta validação contínua garante que o sistema está sendo desenvolvido de acordo com as necessidades reais dos usuários finais \cite{fia2024scrum}.
+
+Logo após a \textit{Sprint Review}, é realizada a \textbf{\textit{Sprint Retrospective}} (Retrospectiva do \textit{Sprint}), uma reunião de reflexão focada no processo de trabalho e não no produto desenvolvido \cite{estrategia2023scrum}. Durante a retrospectiva, são analisados três aspectos principais: o que funcionou bem durante o \textit{Sprint} e deve ser mantido, o que não funcionou adequadamente e precisa ser ajustado, e quais ações concretas de melhoria serão implementadas no próximo ciclo \cite{dio2024scrum}. Esta prática promove aprendizado contínuo e evolução constante do processo de desenvolvimento, permitindo que cada \textit{Sprint} seja mais eficiente que o anterior \cite{miro2024scrum}. Por exemplo, se durante um \textit{Sprint} foi identificado que a falta de testes automatizados gerou retrabalho, a retrospectiva pode definir como ação de melhoria a implementação de testes desde o início das tarefas no próximo ciclo \cite{fia2024scrum}.
+
+A integração entre \textit{Scrum} e \textit{Kanban} permite que o desenvolvimento mantenha a estrutura de entregas incrementais do \textit{Scrum} ao mesmo tempo em que utiliza a visualização do \textit{Kanban} para acompanhar o fluxo de trabalho de forma transparente \cite{projetodiario2025integracao}. Esta abordagem híbrida justifica-se pela natureza exploratória do projeto, onde requisitos podem evoluir conforme o \textit{feedback} de usuários durante os ciclos de desenvolvimento, exigindo flexibilidade sem perder a disciplina que garante entregas funcionais ao final de cada \textit{Sprint} \cite{swacademy2025scrumban}.
 
 \section{Participantes}
 
+Os participantes deste estudo são os atores diretamente envolvidos nas atividades do projeto, pois o sistema \textit{web} de acompanhamento de animais perdidos será desenvolvido e validado com a colaboração dessas pessoas.
 
-\section{Local de Coleta de Dados}
+\textbf{Pesquisador-Desenvolvedor:} o autor deste trabalho, responsável por todas as etapas de concepção, análise, modelagem, implementação, testes técnicos e documentação do sistema. Este participante atuará como desenvolvedor principal, conduzindo o projeto desde a elicitação de requisitos até a entrega final da solução, aplicando as metodologias ágeis \textit{Scrum} e \textit{Kanban} conforme descrito no delineamento deste trabalho. O pesquisador-desenvolvedor também será responsável pela coleta e análise de dados durante as fases de validação do sistema.
 
+\textbf{Orientador Acadêmico:} professor orientador que acompanhará o desenvolvimento do trabalho, fornecendo direcionamento metodológico, validando decisões técnicas e arquiteturais ao longo dos \textit{Sprints}, revisando entregas parciais e garantindo o alinhamento do projeto com os objetivos acadêmicos estabelecidos. O orientador participará das reuniões de \textit{Sprint Review}, fornecendo \textit{feedback} sobre os incrementos desenvolvidos e orientando sobre ajustes necessários tanto no aspecto técnico quanto na documentação do TCC.
+
+\textbf{Usuários-Alvo para Validação:} grupo heterogêneo de indivíduos que utilizarão o sistema durante as fases de teste e validação. Este grupo inclui tutores de animais domésticos e pessoas em geral que podem potencialmente encontrar animais abandonados ou perdidos nas ruas. Estes participantes foram escolhidos como foco principal da pesquisa, pois representam os perfis reais de usuários que utilizarão o sistema na prática, sendo essenciais para identificar necessidades, validar funcionalidades e garantir que o desenvolvimento da ferramenta esteja alinhado às demandas reais do contexto de busca e reunião de animais perdidos. A participação destes usuários promoverá a identificação de dificuldades de uso, validação da usabilidade das interfaces, adequação dos fluxos de navegação e verificação da efetividade das funcionalidades implementadas (cadastro de animais, sistema de busca, geolocalização e notificações).
+
+\section{Levantamento de Requisitos}
+
+O levantamento de requisitos será conduzido através de \textbf{entrevistas} com dois perfis distintos de usuários: tutores de animais domésticos e pessoas em geral, considerando que qualquer pessoa pode potencialmente encontrar um animal na rua e utilizar o sistema. As entrevistas utilizarão perguntas pré-formuladas sobre as dificuldades enfrentadas durante o processo de busca, expectativas em relação ao sistema e quais funcionalidades considerariam úteis. 
+
+Também será realizada \textbf{análise de sistemas similares} existentes, incluindo páginas de redes sociais dedicadas a animais perdidos, grupos de WhatsApp e aplicativos de busca de \textit{pets}, identificando funcionalidades comuns e lacunas que o novo sistema pode preencher.
+
+Tais análises e entrevistas terão como objetivo direcionar o funcionamento do fluxo de trabalho, definir prioridades e apontar possíveis dificuldades que venham a emergir, a fim de clarear a formulação dos requisitos funcionais e não funcionais do sistema.
 
 \section{Equipamentos e Recursos}
 
+A presente seção descreve os materiais e os recursos tecnológicos utilizados no desenvolvimento do sistema \textit{web} para acompanhamento de animais perdidos. O processo de desenvolvimento foi estruturado seguindo abordagens complementares que integram metodologias ágeis e tecnologias contemporâneas, visando garantir a construção de uma solução prática, funcional e centrada nas necessidades reais dos usuários.
 
+\textbf{\textit{Back-end}:} o \textit{back-end} será desenvolvido utilizando Python como linguagem de programação e Django como \textit{framework web}, proporcionando estrutura robusta para desenvolvimento rápido e seguro de aplicações \textit{web} \cite{docker2025django}. Django oferece funcionalidades integradas como sistema de autenticação, painel administrativo e ORM (\textit{Object-Relational Mapping}) para interação com banco de dados \cite{betterstack2024django}.
 
+\textbf{Banco de Dados:} será utilizado PostgreSQL como sistema gerenciador de banco de dados relacional, reconhecido por sua confiabilidade, robustez e suporte a operações complexas \cite{honeybadger2025postgis}. 
 
-\section{Instrumentos para coleta de dados}
+\textbf{\textit{Front-end}:} a interface do usuário será construída utilizando HTML5 para estruturação semântica, CSS3 para estilização e \textit{design} responsivo, e React.js (JavaScript) para criação de componentes interativos e dinâmicos, proporcionando experiência de usuário fluida e moderna.
 
+\textbf{Geração de \textit{QR Code}:} o sistema implementará funcionalidade de geração dinâmica de códigos QR utilizando a biblioteca Python \textit{qrcode}, permitindo que cada usuário registre um animal e gere um código QR exclusivo para ser impresso e fixado na coleira do \textit{pet} \cite{studygyaan2023qrcode}. Quando escaneado por qualquer \textit{smartphone}, o \textit{QR Code} redirecionará automaticamente para uma página \textit{web} específica do animal no sistema, exibindo informações de contato do tutor e facilitando o processo de reunião em caso de perda \cite{creative2025petqr}. Esta abordagem elimina a necessidade de \textit{tags} tradicionais gravadas, que possuem informações estáticas e limitadas, oferecendo uma solução moderna e atualizável em tempo real \cite{petlink2025qrtags}.
 
-\subsection{Instrumento A}
- 
+\textbf{Controle de Versão:} o gerenciamento do código-fonte será realizado através do Git como sistema de controle de versão distribuído, com repositório hospedado no GitHub, facilitando rastreamento de alterações, colaboração e \textit{backup} do código \cite{betterstack2025docker}.
 
-\subsection{Ferramentas Utilizadas}
+\textbf{Containerização e Testes:} o Docker será utilizado para containerização da aplicação, garantindo consistência entre ambientes de desenvolvimento e futura produção, além de facilitar o gerenciamento de dependências e testes isolados do sistema \cite{testdriven2023docker}.
 
+\textbf{Gerenciamento de Tarefas:} o quadro \textit{Kanban} integrado ao GitHub \textit{Projects} será empregado para gestão visual do fluxo de trabalho durante os \textit{Sprints}, permitindo acompanhar o progresso das tarefas através das colunas "A Fazer", "Em Progresso" e "Concluído".
 
-\section{Procedimentos de Coleta de Dados}
+\textbf{Hospedagem:} inicialmente, o sistema será executado em ambiente \textit{localhost} para desenvolvimento e testes. Futuramente, caso o projeto seja expandido, poderá ser realizada hospedagem em serviços \textit{web} especializados para aplicações Django e PostgreSQL.
 
+\textbf{APIs e Serviços Externos:} o sistema poderá integrar APIs externas para funcionalidades avançadas, incluindo Google Maps API ou OpenStreetMap para visualização de mapas e geolocalização de animais perdidos e APIs de serviços de notificação para envio de alertas \textit{push} aos usuários quando houver correspondências entre animais perdidos e encontrados.
 
-\section{Procedimentos de Análise de Dados}
+\section{Procedimento de Coleta de Dados}
 
+A coleta de dados será realizada ao longo de três fases distintas do projeto: levantamento inicial de requisitos, acompanhamento durante o desenvolvimento iterativo, e validação final com usuários. Serão empregados métodos diversos incluindo entrevistas, questionários \textit{online}, análise de sistemas similares, documentação das cerimônias \textit{Scrum} e testes de usabilidade com usuários voluntários.
 
+\newpage
+\textbf{Entrevistas Semiestruturadas}
 
+Serão realizadas entrevistas individuais com um grupo amostral de pessoas, preferencialmente que já vivenciaram a perda de animais de estimação. As entrevistas seguirão roteiro pré-formulado com questões abertas sobre experiências com animais perdidos, dificuldades enfrentadas e expectativas em relação ao sistema. Os dados coletados serão categorizados em requisitos funcionais e não-funcionais para orientar o desenvolvimento.
+
+\textbf{Questionários \textit{Online}}
+
+Será distribuído questionário estruturado através do Google \textit{Forms} para o público-alvo. O questionário conterá questões objetivas utilizando escalas \textit{Likert} para avaliar preferências sobre funcionalidades, além de questões abertas para capturar sugestões dos usuários. As respostas serão exportadas para planilhas eletrônicas e analisadas para identificar padrões e prioridades.
+
+\textbf{Análise de Sistemas Similares}
+
+Será conduzida análise de sistemas existentes dedicados a animais perdidos, incluindo aplicativos móveis, páginas de redes sociais e grupos de comunicação. A análise identificará funcionalidades recorrentes, fluxos de navegação comuns e lacunas não atendidas pelas soluções atuais. Os dados coletados serão organizados em tabelas comparativas documentando pontos fortes e fracos de cada sistema analisado.
+
+\textbf{Coleta Durante Desenvolvimento}
+
+Durante o desenvolvimento iterativo com \textit{Scrum}, serão coletados dados através das cerimônias. Nas \textit{Sprint Reviews}, o orientador acadêmico fornecerá \textit{feedback} estruturado sobre os incrementos desenvolvidos, registrado em documento de acompanhamento. As \textit{Sprint Retrospectives} gerarão atas documentando melhorias identificadas no processo de desenvolvimento. Todas as decisões técnicas relevantes serão registradas como \textit{issues} no GitHub com \textit{tags} descritivas para identificação.
+
+\textbf{Testes de Usabilidade}
+
+Na fase final de validação, serão conduzidos testes com usuários voluntários executando tarefas predefinidas no sistema. Após os testes, será aplicado questionário pós-teste utilizando Escala de \textit{Likert} para avaliar satisfação, facilidade de uso e confiabilidade do sistema. Serão também registradas métricas objetivas como taxa de sucesso nas tarefas, tempo de execução e quantidade de erros cometidos.
+
+\section{Procedimento de Análise de Dados}
+
+Os dados coletados serão organizados e analisados de acordo com sua natureza e finalidade. As informações obtidas nas entrevistas e testes de usabilidade passarão por análise de conteúdo para identificar padrões e necessidades recorrentes. Os dados dos questionários serão tabulados e analisados através de estatísticas descritivas simples, como percentuais e médias. As informações documentadas durante os \textit{Sprints} serão consolidadas para avaliação do processo de desenvolvimento.
+
+\textbf{Análise de Entrevistas}
+
+As entrevistas serão transcritas e os dados textuais serão categorizados por temas recorrentes. Serão identificados os principais problemas relatados pelos entrevistados, as expectativas em relação ao sistema e as funcionalidades consideradas essenciais. Essas informações serão agrupadas em requisitos funcionais (cadastro, busca, notificações) e não-funcionais (usabilidade, desempenho, segurança).
+
+\textbf{Análise de Questionários}
+
+As respostas dos questionários serão exportadas para planilhas e analisadas através de cálculos percentuais e médias das escalas \textit{Likert}. Serão identificadas as funcionalidades mais desejadas pelos usuários e o grau de prioridade de cada recurso. Os dados serão apresentados em gráficos e tabelas para facilitar a visualização.
+
+\textbf{Análise Comparativa de Sistemas}
+
+Os sistemas similares analisados serão comparados através de tabelas que destacam funcionalidades presentes, ausentes e diferenciadores. Serão identificadas as melhores práticas do mercado e as lacunas que o sistema proposto pode preencher.
+
+\textbf{Análise dos Testes de Usabilidade}
+
+Os dados dos testes serão analisados através de métricas objetivas como taxa de sucesso nas tarefas, tempo médio de execução e quantidade de erros. Os vídeos das sessões \textit{Think Aloud} serão revisados para identificar dificuldades de navegação e pontos de confusão na interface. Os questionários pós-teste fornecerão dados sobre satisfação geral, que serão calculados através de médias das escalas \textit{Likert}.
+
+\textbf{Análise do Processo de Desenvolvimento}
+
+As atas das \textit{Sprint Retrospectives} serão consolidadas para identificar melhorias implementadas ao longo do projeto. As métricas do quadro \textit{Kanban} (número de tarefas concluídas por \textit{Sprint}) serão analisadas para avaliar a produtividade do desenvolvimento.
+
+\section{Testes e Validação}
+
+O sistema será submetido a diferentes tipos de testes para garantir seu correto funcionamento, qualidade e adequação às necessidades dos usuários. Os testes abordarão aspectos técnicos (unitários e integração), funcionais (usabilidade) e de proteção de dados (segurança). Cada tipo de teste possui objetivos específicos que juntos garantem a qualidade final do produto.
+
+\newpage
+\textbf{Testes Unitários}
+
+Serão realizados testes unitários para verificar o funcionamento correto de componentes individuais do sistema de forma isolada. Cada função e método do \textit{backend} Django será testado individualmente para garantir que retorna os resultados esperados. 
+
+\textbf{Testes de Integração}
+
+Os testes de integração verificarão se diferentes módulos e serviços do sistema funcionam corretamente quando combinados. Serão testadas as interações entre o \textit{frontend} React e o \textit{backend} Django através das APIs REST e a comunicação do Django com o banco de dados PostgreSQL. Também será testada a integração com serviços externos como APIs de mapas e sistemas de notificação.
+
+\textbf{Teste de Sistema}
+
+O teste de sistema verificará o funcionamento completo da aplicação em um ambiente integrado, validando o fluxo completo de operações do sistema. Este teste abrangerá aspectos gerais de funcionalidade, navegação entre páginas, validação de formulários e proteção básica de dados através das configurações de segurança do Django (como proteção CSRF, validação de entrada de dados e criptografia de senhas). O objetivo é garantir que todas as funcionalidades implementadas trabalhem de forma coesa e que o sistema esteja pronto para a validação com usuários finais.
+
+\textbf{Validação Final}
+
+Após a conclusão dos testes técnicos, o sistema completo será apresentado a um grupo de usuários finais (tutores de animais e pessoas em geral) para validação final. Será coletado \textit{feedback} sobre se o sistema atende às expectativas levantadas nas entrevistas iniciais e se resolve adequadamente o problema de localização de animais perdidos. Os usuários avaliarão funcionalidades como cadastro, busca, geração de \textit{QR Code} e geolocalização através de questionários estruturados.
