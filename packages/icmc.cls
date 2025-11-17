@@ -1,42 +1,8 @@
-%%
-%% Customizacoes do abnTeX2 (http://abnTeX2.googlecode.com) para o 
-%% Instituto de Ciencias Matematicas e de Computacao, Universidade 
-%% de Sao Paulo
-%%
-%% This work may be distributed and/or modified under the
-%% conditions of the LaTeX Project Public License, either version 1.3
-%% of this license or (at your option) any later version.
-%% The latest version of this license is in
-%%   http://www.latex-project.org/lppl.txt
-%% and version 1.3 or later is part of all distributions of LaTeX
-%% version 2005/12/01 or later.
-%%
-%% This work has the LPPL maintenance status `maintained'.
-%% 
-%% The Current Maintainer of this work is Humberto Lidio Antonelli, 
-%% Contact: humbertoantonelli@usp.brhttp://localhost:8081/
-%%
-%% Further information about abnTeX2 are available on 
-%% http://abntex2.googlecode.com/
-%%
-
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{packages/icmc}[2017/10/17 v1.3.7 Classe ICMC baseado em abnTeX2 - Teses e Dissertacoes dos Programas de Pos-graduacao do Instituto de Ciencias Matematicas e de Computacao]
 \RequirePackage{xifthen}
 \RequirePackage{ifxetex}        % Verifica se a compilacao ocorre por xetex
 \RequirePackage{ifluatex}       % Verifica se a compilacao ocorre por luatex
-
-%================================================================================
-% Declaracao de opcoes
-%================================================================================
-% Opcoes:
-% 	qualificacao:   Formata documento para qualificacao
-%	doutorado:      Formata documento para tese de doutorado
-% 	mestrado:       Formata documento para dissertacao de mestrado
-% 	pre-defesa:     Formata documento para versao de defesa (utilizado apenas para versao completa)
-%   pro-defesa:     Formata documento para versao final (utilizado apenas para versao completa)
-%   impressao:      Formata documento para versao de impressao
-% ---------------------------------------icmc----------------------------------------
 
 \DeclareOption*{%
     \PackageWarning{icmc}{Unknown option ‘\CurrentOption’}%
@@ -229,12 +195,12 @@
 \ifthenelse{\boolean{opt-qualificacao}}{
     \addto\captionsenglish{% ingles
         \renewcommand{\exam}{ Ministry of Education as part of the requirements for}
-        \tipotrabalho{Completion of course work}
+        \tipotrabalho{Completion of course work project}
         \renewcommand{\tipoexemplar}{}
     }
     \addto\captionsbrazil{% portugues-brasil
         \renewcommand{\exam}{ ligado ao Ministério da Educação como parte dos requisitos para obten{\c c}{\~a}o do t{\'i}tulo de}
-        \tipotrabalho{Trabalho de Conclusão de Curso}
+        \tipotrabalho{Projeto do Trabalho de Conclusão de Curso}
         \renewcommand{\tipoexemplar}{}
     }
 }{}
@@ -1345,20 +1311,20 @@
           	\@icmcCarimbo
           	\vspace{12pt}
           	\hspace{2pt} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
-          	\hspace{2pt} Titulação. Nome do Professor (Orientador)\\
+          	\hspace{2pt} Me. Maria Eugênia Ávila Ferreira\\
           	\hspace{2pt} Instituto Federal Baiano - Campus Guanambi
           	
           	\vspace{12pt}
           	\hspace{2pt} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
-          	\hspace{2pt} Titulação. Nome do Professor (Membro)\\
+          	\hspace{2pt} Esp. Cleiton de Miranda Brito\\
           	\hspace{2pt} Instituto Federal Baiano - Campus Guanambi
           	
           	\vspace{12pt}
           	\hspace{2pt} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
-          	\hspace{2pt} Titulação. (Membro)\\
+          	\hspace{2pt} Me. George Gabriel Mendes Dourado\\
           	\hspace{2pt} Instituto Federal Baiano - Campus Guanambi
           	
-          	\vspace{12pt}\textbf{Trabalho Aprovado. Guanambi-BA, 29 de Maio de 2019}
+          	\vspace{12pt}\textbf{Pré-Projeto Aprovado. Guanambi-BA, \_\_ de Dezembro de 2025}
           	
           }  
             

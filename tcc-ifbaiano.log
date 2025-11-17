@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  17 NOV 2025 01:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  17 NOV 2025 09:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1852,13 +1852,13 @@ LaTeX template Info: Declaring template type 'tasks' taking 3 argument(s) on
 \openout4 = `tcc-ifbaiano.nlo'.
 
 Package nomencl Info: Writing nomenclature file tcc-ifbaiano.nlo on input line 
-292.
+258.
 \glswrite=\write131
 \glo@main@file=\write132
 \openout4 = `tcc-ifbaiano.glo'.
 
-Package glossaries Info: Writing glossary file tcc-ifbaiano.glo on input line 3
-08.
+Package glossaries Info: Writing glossary file tcc-ifbaiano.glo on input line 2
+74.
 \c@count_glossario=\count509
 \c@teorema=\count510
 \c@proposicao=\count511
@@ -1871,7 +1871,7 @@ Package glossaries Info: Writing glossary file tcc-ifbaiano.glo on input line 3
 
 
 Package float Warning: Can't redefine counter variable for quadro. on input lin
-e 747.
+e 713.
 
 \cftbeforealgorithmtskip=\skip295
 \cftalgorithmtindent=\skip296
@@ -1884,8 +1884,8 @@ e 747.
 (/home/saviokslf/.miktex/texmfs/install/tex/latex/base/fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
 )
-Package hyperref Info: Option `unicode' set `true' on input line 1509.
-Package hyperref Info: Option `colorlinks' set `true' on input line 1509.
+Package hyperref Info: Option `unicode' set `true' on input line 1475.
+Package hyperref Info: Option `colorlinks' set `true' on input line 1475.
 \tcc-ifbaiano@idxfile=\write133
 \openout4 = `tcc-ifbaiano.idx'.
 
@@ -2317,11 +2317,6 @@ kslf/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 89--89
-\T1/phv/m/n/11 Titulação. Nome do Professor
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \T1/phv/m/n/11 Instituto Federal Baiano - Campus
  []
 
@@ -2338,8 +2333,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--89
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 89.
 
-Underfull \hbox (badness 1019) in paragraph at lines 89--89
-[]\T1/phv/m/n/10 Trabalho de Conclusão de Curso apresentado ao
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]\T1/phv/m/n/10 Projeto do Trabalho de Conclusão de
  []
 
 
@@ -2366,13 +2361,18 @@ l.89 \begin{document}
 \openout4 = `tcc-ifbaiano.mw'.
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 89--89
-\T1/phv/m/n/10 - Campus Guanambi, Ministry of Education as
+Underfull \hbox (badness 2875) in paragraph at lines 89--89
+[]\T1/phv/m/n/10 Completion of course work project submitted to
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 89--89
-\T1/phv/m/n/10 part of the requirements for obtaining the title of
+Underfull \hbox (badness 2941) in paragraph at lines 89--89
+\T1/phv/m/n/10 the Federal Institute of Education, Science and
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 89--89
+\T1/phv/m/n/10 the title of Technologist in Systems Analysis and
  []
 
 
@@ -2728,7 +2728,7 @@ ra garantir seu correto funcionamento,
 
 
 Cap\'{\i }tulo 6.
-(tex/resultados-discussao.tex)
+(tex/resultados-esperados.tex)
 
 \openout4 = `tcc-ifbaiano.mw'.
 
@@ -2789,21 +2789,21 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-<packages/contra-capa.pdf, id=548, 599.51535pt x 847.05435pt>
+<packages/contra-capa.pdf, id=546, 599.51535pt x 847.05435pt>
 File: packages/contra-capa.pdf Graphic file (type pdf)
 <use packages/contra-capa.pdf>
-Package pdftex.def Info: packages/contra-capa.pdf  used on input line 187.
+Package pdftex.def Info: packages/contra-capa.pdf  used on input line 179.
 (pdftex.def)             Requested size: 599.51389pt x 847.05228pt.
-<packages/contra-capa.pdf, id=550, page=1, 599.51535pt x 847.05435pt>
+<packages/contra-capa.pdf, id=548, page=1, 599.51535pt x 847.05435pt>
 File: packages/contra-capa.pdf Graphic file (type pdf)
 <use packages/contra-capa.pdf, page 1>
-Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 18
-7.
+Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 17
+9.
 (pdftex.def)             Requested size: 599.51389pt x 847.05228pt.
 File: packages/contra-capa.pdf Graphic file (type pdf)
 <use packages/contra-capa.pdf, page 1>
-Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 18
-7.
+Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 17
+9.
 (pdftex.def)             Requested size: 598.01363pt x 844.93257pt.
 
 
@@ -2814,20 +2814,20 @@ Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 18
 
 File: packages/contra-capa.pdf Graphic file (type pdf)
 <use packages/contra-capa.pdf, page 1>
-Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 18
-7.
+Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 17
+9.
 (pdftex.def)             Requested size: 598.01363pt x 844.93257pt.
 File: packages/contra-capa.pdf Graphic file (type pdf)
 <use packages/contra-capa.pdf, page 1>
-Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 18
-7.
+Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 17
+9.
 (pdftex.def)             Requested size: 598.01363pt x 844.93257pt.
 
 
 File: packages/contra-capa.pdf Graphic file (type pdf)
 <use packages/contra-capa.pdf, page 1>
-Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 18
-7.
+Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 17
+9.
 (pdftex.def)             Requested size: 598.01363pt x 844.93257pt.
 \openout4 = `tcc-ifbaiano.mw'.
 
@@ -2846,10 +2846,6 @@ Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 18
 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (tcc-ifbaiano.aux
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
 \openout4 = `tcc-ifbaiano.mw'.
 
 \openout4 = `tcc-ifbaiano.mw'.
@@ -3363,11 +3359,11 @@ Package rerunfilecheck Info: File `tcc-ifbaiano.brf' has not changed.
 
  ) 
 Here is how much of TeX's memory you used:
- 54698 strings out of 470018
- 1057671 string characters out of 5477468
- 1698025 words of memory out of 5000000
- 80905 multiletter control sequences out of 15000+600000
- 757085 words of font info for 422 fonts, out of 8000000 for 9000
+ 54690 strings out of 470018
+ 1057585 string characters out of 5477468
+ 1698058 words of memory out of 5000000
+ 80904 multiletter control sequences out of 15000+600000
+ 756958 words of font info for 420 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  125i,17n,121p,3260b,836s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/saviokslf/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10
@@ -3380,9 +3376,9 @@ f/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></home/saviokslf/.mik
 tex/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb></home/saviokslf/.miktex/t
 exmfs/install/fonts/type1/urw/times/utmr8a.pfb></home/saviokslf/.miktex/texmfs/
 install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tcc-ifbaiano.pdf (32 pages, 1749328 bytes).
+Output written on tcc-ifbaiano.pdf (32 pages, 1748694 bytes).
 PDF statistics:
- 768 PDF objects out of 1000 (max. 8388607)
- 117 named destinations out of 1000 (max. 500000)
- 102717 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 763 PDF objects out of 1000 (max. 8388607)
+ 116 named destinations out of 1000 (max. 500000)
+ 102709 words of extra memory for PDF output out of 106986 (max. 10000000)
 

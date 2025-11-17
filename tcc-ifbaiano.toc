@@ -34,8 +34,7 @@
 \contentsline {section}{\numberline {5.5}Procedimento de Coleta de Dados}{22}{section.5.5}%
 \contentsline {section}{\numberline {5.6}Procedimento de Análise de Dados}{23}{section.5.6}%
 \contentsline {section}{\numberline {5.7}Testes e Validação}{24}{section.5.7}%
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Resultados e Discussão}}{26}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Resultados Esperados}{26}{section.6.1}%
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Resultados Esperados}}{26}{chapter.6}%
 \contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase []{Cronograma}}{27}{chapter.7}%
 \vspace {\cftbeforechapterskip }
 \contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{28}{section*.14}%
