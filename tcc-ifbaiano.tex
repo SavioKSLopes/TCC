@@ -58,7 +58,7 @@
 % conter no mínimo 1 e no máximo 5 palavras-chave
 \textoresumo[brazil]{
     	
-    	 O desaparecimento de animais de estimação representa um problema recorrente no Brasil, gerando sofrimento emocional para os tutores e impactos sociais relacionados à saúde pública. Este trabalho propõe o desenvolvimento de um sistema \textit{web} destinado a facilitar o reencontro entre animais perdidos e seus responsáveis, contribuindo para a redução do número de animais circulando desabrigados nas ruas. O levantamento de requisitos será conduzido através de entrevistas com tutores de animais e análise de sistemas similares existentes, aplicando o \textit{Design Thinking} nas fases iniciais para garantir que o sistema seja centrado nas necessidades reais dos usuários. O projeto utilizará as metodologias ágeis \textit{Scrum} e \textit{Kanban} para organização do desenvolvimento em \textit{Sprints} iterativos. A solução tecnológica proposta integrará \textit{back-end} desenvolvido em Django, \textit{front-end} em React.js e banco de dados PostgreSQL, oferecendo funcionalidades de cadastro de animais, sistema de busca com filtros por região e características, geração de \textit{QR Code} para identificação rápida e recursos de geolocalização. Serão realizados testes de usabilidade com usuários reais para validar a interface e adequação do sistema aos diferentes perfis de usuários. Espera-se que a plataforma tenha potencial para reduzir significativamente o tempo de busca por animais desaparecidos, demonstrando a viabilidade de aplicação de tecnologias \textit{web} e metodologias ágeis no desenvolvimento de soluções voltadas para problemas sociais.
+    	 O desaparecimento de animais de estimação representa um problema recorrente no Brasil, gerando sofrimento emocional para os tutores e impactos sociais relacionados à saúde pública. Este trabalho propõe o desenvolvimento de um sistema \textit{web} destinado a facilitar o reencontro entre animais perdidos e seus responsáveis, contribuindo para a redução do número de animais circulando desabrigados nas ruas. O levantamento de requisitos será conduzido através de entrevistas com tutores de animais e análise de sistemas similares existentes, aplicando o \textit{Design Thinking} nas fases iniciais para garantir que o sistema seja centrado nas necessidades reais dos usuários. O projeto utilizará as metodologias ágeis \textit{Scrum} e \textit{Kanban} para organização do desenvolvimento em \textit{Sprints} iterativos. A solução tecnológica proposta integrará \textit{back-end} desenvolvido em Django, \textit{front-end} em React.js e banco de dados PostgreSQL, oferecendo funcionalidades de cadastro de animais, sistema de busca com filtros por região e características, geração de \textit{QR code} para identificação rápida e recursos de geolocalização. Serão realizados testes de usabilidade com usuários reais para validar a interface e adequação do sistema aos diferentes perfis de usuários. Espera-se que a plataforma tenha potencial para reduzir significativamente o tempo de busca por animais desaparecidos, demonstrando a viabilidade de aplicação de tecnologias \textit{web} e metodologias ágeis no desenvolvimento de soluções voltadas para problemas sociais.
 }{Animais perdidos. Sistema \textit{web}. Metodologias ágeis. Geolocalização. \textit{QR Code}}
 
 
@@ -81,8 +81,16 @@
 \incluilistadetabelas
 
 % Inclui a lista de siglas e abreviaturas
-\incluilistadesiglas
-
+	\incluilistadesiglas
+	
+	\sigla*{QR Code}{Quick Response Code}
+	\sigla*{API}{Application Programming Interface}
+	\sigla*{ORM}{Object-Relational Mapping}
+	\sigla*{HTML5}{HyperText Markup Language 5}
+	\sigla*{CSS3}{Cascading Style Sheets 3}
+	\sigla*{CSRF}{Cross-Site Request Forgery}
+	\sigla*{REST}{Representational State Transfer}
+	\sigla*{SCAMPER}{Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse}
 % ----
 % Início do documento
 % ----
@@ -140,40 +148,5 @@
 \bibliography{references}
 
 % ---------------------------------------------------------------------
-% GLOSSÁRIO
-% ---------------------------------------------------------------------
-
-% Arquivo que contém as definições que vão aparecer no glossário
-%\input{tex/glossario}
-% Comando para incluir todas as definições do arquivo glossario.tex
-%\glsaddall
-% Impressão do glossário
-%\printglossaries
-
-% ----------------------------------------------------------
-% Apêndices
-% ----------------------------------------------------------
-
-% ---
-% Inicia os apêndices
-% ---
-\begin{apendicesenv}
-
-\end{apendicesenv}
-% --- 
-
-
-% ----------------------------------------------------------
-% Anexos
-% ----------------------------------------------------------
-
-% ---
-% Inicia os anexos
-% ---
-\begin{anexosenv}
-
-\end{anexosenv}
-% ---
-
 
 \end{document}
