@@ -19,118 +19,96 @@ Database file #1: abntex2-options.bib
 Database file #2: references.bib
 Warning--entry type for "Mars2022" isn't style-file defined
 --line 44 of file references.bib
-Warning--entry type for "UFPB2024" isn't style-file defined
---line 64 of file references.bib
 Warning--entry type for "PawBoost2024" isn't style-file defined
---line 84 of file references.bib
+--line 74 of file references.bib
 Warning--entry type for "PetcoLoveLost2023" isn't style-file defined
---line 94 of file references.bib
+--line 84 of file references.bib
 Warning--entry type for "Nielsen2020" isn't style-file defined
---line 104 of file references.bib
+--line 94 of file references.bib
 Warning--entry type for "W3C2019" isn't style-file defined
---line 114 of file references.bib
+--line 104 of file references.bib
 Warning--entry type for "ISO2018" isn't style-file defined
---line 124 of file references.bib
-Repeated entry---line 200 of file references.bib
+--line 114 of file references.bib
+Repeated entry---line 190 of file references.bib
  : @misc{Mars2022
  :               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 216 of file references.bib
- : @misc{UFPB2024
- :               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 224 of file references.bib
+Repeated entry---line 214 of file references.bib
  : @misc{PawBoost2024
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 232 of file references.bib
+Repeated entry---line 222 of file references.bib
  : @misc{PetcoLoveLost2023
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 240 of file references.bib
+Repeated entry---line 230 of file references.bib
  : @book{Castells2003
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 248 of file references.bib
+Repeated entry---line 238 of file references.bib
  : @misc{Nielsen2020
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 256 of file references.bib
+Repeated entry---line 246 of file references.bib
  : @misc{W3C2019
  :              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 264 of file references.bib
+Repeated entry---line 254 of file references.bib
  : @misc{ISO2018
  :              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 272 of file references.bib
+Repeated entry---line 262 of file references.bib
  : @book{Norman2013
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 280 of file references.bib
+Repeated entry---line 270 of file references.bib
  : @misc{Brasil2018
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 296 of file references.bib
+Repeated entry---line 286 of file references.bib
  : @misc{IstoePet2024
  :                   ,
 I'm skipping whatever remains of this entry
 Warning--entry type for "alura2021kanban" isn't style-file defined
---line 304 of file references.bib
+--line 294 of file references.bib
 Warning--entry type for "atlassian2015scrum" isn't style-file defined
---line 331 of file references.bib
+--line 321 of file references.bib
 Warning--entry type for "dio2024scrum" isn't style-file defined
---line 386 of file references.bib
+--line 376 of file references.bib
 Warning--entry type for "estrategia2023scrum" isn't style-file defined
---line 395 of file references.bib
+--line 385 of file references.bib
 Warning--entry type for "fia2024scrum" isn't style-file defined
---line 404 of file references.bib
+--line 394 of file references.bib
 Warning--entry type for "gateware2024sprints" isn't style-file defined
---line 422 of file references.bib
+--line 412 of file references.bib
 Warning--entry type for "ixdf2025design" isn't style-file defined
---line 440 of file references.bib
+--line 430 of file references.bib
 Warning--entry type for "miro2024kanban" isn't style-file defined
---line 459 of file references.bib
+--line 449 of file references.bib
 Warning--entry type for "miro2024scrum" isn't style-file defined
---line 468 of file references.bib
+--line 458 of file references.bib
 Warning--entry type for "projetodiario2025integracao" isn't style-file defined
---line 495 of file references.bib
+--line 485 of file references.bib
 Warning--entry type for "quanta2025design" isn't style-file defined
---line 504 of file references.bib
+--line 494 of file references.bib
 Warning--entry type for "swacademy2025scrumban" isn't style-file defined
---line 534 of file references.bib
+--line 524 of file references.bib
 Warning--entry type for "docker2025django" isn't style-file defined
---line 635 of file references.bib
+--line 625 of file references.bib
 Warning--entry type for "betterstack2024django" isn't style-file defined
---line 644 of file references.bib
+--line 634 of file references.bib
 Warning--entry type for "honeybadger2025postgis" isn't style-file defined
---line 653 of file references.bib
+--line 643 of file references.bib
 Warning--entry type for "testdriven2023docker" isn't style-file defined
---line 671 of file references.bib
+--line 661 of file references.bib
 Warning--entry type for "betterstack2025docker" isn't style-file defined
---line 680 of file references.bib
+--line 670 of file references.bib
 Warning--entry type for "studygyaan2023qrcode" isn't style-file defined
---line 725 of file references.bib
+--line 715 of file references.bib
 Warning--entry type for "creative2025petqr" isn't style-file defined
---line 734 of file references.bib
+--line 724 of file references.bib
 Warning--entry type for "petlink2025qrtags" isn't style-file defined
---line 743 of file references.bib
-Warning--I didn't find a database entry for "barwaldt:2008"
-Warning--I didn't find a database entry for "naidson:2017"
-Warning--I didn't find a database entry for "EspiritoSanto1987"
-Warning--I didn't find a database entry for "DeRose2015"
-Warning--I didn't find a database entry for "Novak1967"
-Warning--I didn't find a database entry for "Smith2014"
-Warning--I didn't find a database entry for "Dias2014"
-Warning--I didn't find a database entry for "Giannini2000"
-Warning--I didn't find a database entry for "Pasquarelli1987"
-Warning--I didn't find a database entry for "an:2013"
-Warning--I didn't find a database entry for "huegel:2015"
-Warning--I didn't find a database entry for "delvecchio1995"
-Warning--I didn't find a database entry for "apae:2006"
-Warning--I didn't find a database entry for "carniel:2015"
-Warning--I didn't find a database entry for "brasil:2008"
-Warning--I didn't find a database entry for "barbosa:2016"
+--line 733 of file references.bib
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
@@ -140,45 +118,45 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 51 entries,
+You've used 50 entries,
             6708 wiz_defined-function locations,
-            1424 strings with 16694 characters,
-and the built_in function-call counts, 62643 in all, are:
-= -- 7703
-> -- 605
-< -- 1864
-+ -- 2123
-- -- 203
-* -- 3411
-:= -- 7585
-add.period$ -- 181
-call.type$ -- 54
-change.case$ -- 270
-chr.to.int$ -- 51
-cite$ -- 39
-duplicate$ -- 6733
-empty$ -- 2811
-format.name$ -- 921
-if$ -- 12371
+            1396 strings with 16296 characters,
+and the built_in function-call counts, 61663 in all, are:
+= -- 7597
+> -- 590
+< -- 1843
++ -- 2097
+- -- 198
+* -- 3355
+:= -- 7455
+add.period$ -- 177
+call.type$ -- 53
+change.case$ -- 265
+chr.to.int$ -- 50
+cite$ -- 38
+duplicate$ -- 6646
+empty$ -- 2754
+format.name$ -- 898
+if$ -- 12166
 int.to.chr$ -- 12
 int.to.str$ -- 3
-missing$ -- 793
-newline$ -- 220
-num.names$ -- 195
-pop$ -- 934
+missing$ -- 777
+newline$ -- 215
+num.names$ -- 190
+pop$ -- 913
 preamble$ -- 1
-purify$ -- 154
+purify$ -- 151
 quote$ -- 0
-skip$ -- 7489
+skip$ -- 7393
 stack$ -- 1
-substring$ -- 2730
-swap$ -- 2312
-text.length$ -- 28
+substring$ -- 2691
+swap$ -- 2282
+text.length$ -- 27
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 264
+while$ -- 257
 width$ -- 0
-write$ -- 582
-(There were 12 error messages)
+write$ -- 568
+(There were 11 error messages)
