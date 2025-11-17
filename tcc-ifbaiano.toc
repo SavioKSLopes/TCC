@@ -12,38 +12,33 @@
 \babel@toc {brazil}{}\relax
 \babel@toc {english}{}\relax
 \babel@toc {brazil}{}\relax
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Introdução}}{17}{chapter.1}%
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Objetivos}}{20}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Objetivo Geral}{20}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Objetivos Específicos}{20}{section.2.2}%
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Justificativa}}{21}{chapter.3}%
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Revisão Bibliográfica/Teórica}}{22}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Animais de Estimação no Brasil}{22}{section.4.1}%
-\contentsline {section}{\numberline {4.2}O Desaparecimento de Animais de Estimação no Brasil}{23}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Plataformas digitais e sistemas web}{24}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Usabilidade e acessibilidade em sistemas web}{24}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Proteção de dados e legislação}{25}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Considerações finais}{26}{section.4.6}%
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Metodologia}}{27}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Delineamento da Pesquisa}{27}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Design Thinking}{27}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Metodologias Ágeis: Scrum e Kanban}{28}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}Participantes}{30}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Levantamento de Requisitos}{31}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Equipamentos e Recursos}{31}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Procedimento de Coleta de Dados}{32}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Procedimento de Análise de Dados}{33}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Testes e Validação}{34}{section.5.7}%
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Resultados e Discussão}}{36}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Resultados Esperados}{36}{section.6.1}%
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase []{Cronograma}}{37}{chapter.7}%
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Introdução}}{7}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Objetivos}}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Objetivo Geral}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Objetivos Específicos}{10}{section.2.2}%
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Justificativa}}{11}{chapter.3}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Revisão Bibliográfica/Teórica}}{12}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Animais de Estimação no Brasil}{12}{section.4.1}%
+\contentsline {section}{\numberline {4.2}O Desaparecimento de Animais de Estimação no Brasil}{13}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Plataformas digitais e sistemas web}{14}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Usabilidade e acessibilidade em sistemas web}{14}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Proteção de dados e legislação}{15}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Considerações finais}{16}{section.4.6}%
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Metodologia}}{17}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Delineamento da Pesquisa}{17}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Design Thinking}{17}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Metodologias Ágeis: Scrum e Kanban}{18}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Participantes}{20}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Levantamento de Requisitos}{21}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Equipamentos e Recursos}{21}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Procedimento de Coleta de Dados}{22}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Procedimento de Análise de Dados}{23}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Testes e Validação}{24}{section.5.7}%
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Resultados e Discussão}}{26}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Resultados Esperados}{26}{section.6.1}%
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase []{Cronograma}}{27}{chapter.7}%
 \vspace {\cftbeforechapterskip }
-\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{38}{section*.28}%
+\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{28}{section*.14}%
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase []{Título do Apêndice A}}{41}{appendix.A}%
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase []{Título do Apêndice B}}{42}{appendix.B}%
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase []{Título do Anexo A}}{43}{appendix.anexochapback.1}%
-\contentsline {section}{\numberline {A.1}CONFIGURAÇÕES DE PDF}{43}{section.anexochapback.1.1}%
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase []{Título do Anexo B}}{44}{appendix.anexochapback.2}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  14 NOV 2025 11:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.21)  17 NOV 2025 01:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2030,24 +2030,24 @@ Package babel Info: 'brazil' activates 'portuges' shorthands.
 )
 \openout1 = `tcc-ifbaiano.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
 
 (/home/saviokslf/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -2079,7 +2079,7 @@ G,.JBIG2,.JB2,.eps]
 (/home/saviokslf/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 110.
+Package hyperref Info: Link coloring ON on input line 89.
 \myptabbox=\box118
 \myptabboxwidth=\skip303
 Package caption Info: Begin \AtBeginDocument code.
@@ -2096,13 +2096,13 @@ Package caption Info: End \AtBeginDocument code.
 Package microtype Info: Patching varwidth to enable character protrusion.
 \MT@vwid@leftmargin=\dimen453
 \MT@vwid@rightmargin=\dimen454
-LaTeX Info: Redefining \microtypecontext on input line 110.
-Package microtype Info: Applying patch `item' on input line 110.
-Package microtype Info: Applying patch `toc' on input line 110.
-Package microtype Info: Applying patch `eqnum' on input line 110.
-Package microtype Info: Applying patch `footnote' on input line 110.
-Package microtype Info: Applying patch `verbatim' on input line 110.
-LaTeX Info: Redefining \microtypesetup on input line 110.
+LaTeX Info: Redefining \microtypecontext on input line 89.
+Package microtype Info: Applying patch `item' on input line 89.
+Package microtype Info: Applying patch `toc' on input line 89.
+Package microtype Info: Applying patch `eqnum' on input line 89.
+Package microtype Info: Applying patch `footnote' on input line 89.
+Package microtype Info: Applying patch `verbatim' on input line 89.
+LaTeX Info: Redefining \microtypesetup on input line 89.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -2127,9 +2127,9 @@ F (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 \c@lstlisting=\count537
-Package tocbasic Info: setting babel extension for `lol' on input line 110.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 11
-0.
+Package tocbasic Info: setting babel extension for `lol' on input line 89.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 89
+.
  (/home/saviokslf/.miktex/texmfs/install/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
@@ -2138,7 +2138,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 110.
+ 89.
 
 (/home/saviokslf/.miktex/texmfs/install/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -2148,17 +2148,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 110.
+ 89.
  (/home/saviokslf/.miktex/texmfs/install/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )<<oml.cmap>>
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 110.
+ 89.
  (/home/saviokslf/.miktex/texmfs/install/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )<<oms.cmap>>
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 110.
+ 89.
  (/home/saviokslf/.miktex/texmfs/install/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )<<omx.cmap>>
@@ -2168,24 +2168,24 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 (/home/saviokslf/.miktex/texmfs/install/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-10.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 8
+9.
 
 (/home/saviokslf/.miktex/texmfs/install/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 110.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 89.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 110.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 89.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 110.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 89.
 
 
 <packages/capa.pdf, id=11, 600.08469pt x 847.62369pt>
 File: packages/capa.pdf Graphic file (type pdf)
 <use packages/capa.pdf>
-Package pdftex.def Info: packages/capa.pdf  used on input line 110.
+Package pdftex.def Info: packages/capa.pdf  used on input line 89.
 (pdftex.def)             Requested size: 598.29768pt x 845.04684pt.
 \openout4 = `tcc-ifbaiano.mw'.
 
@@ -2316,35 +2316,35 @@ kslf/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}
 \openout4 = `tcc-ifbaiano.ist'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \T1/phv/m/n/11 Titulação. Nome do Professor
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \T1/phv/m/n/11 Instituto Federal Baiano - Campus
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \T1/phv/m/n/11 Instituto Federal Baiano - Campus
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \T1/phv/m/n/11 Instituto Federal Baiano - Campus
  []
 
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 110.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 89.
 
-Underfull \hbox (badness 1019) in paragraph at lines 110--110
+Underfull \hbox (badness 1019) in paragraph at lines 89--89
 []\T1/phv/m/n/10 Trabalho de Conclusão de Curso apresentado ao
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-[]\T1/phv/m/n/10 Orientador: Prof. Dr. []George Gabriel
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]\T1/phv/m/n/10 Orientador: Prof. Me. []George Gabriel
  []
 
 
@@ -2354,8 +2354,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 \begin{document}
-                      
+l.89 \begin{document}
+                     
 \openout4 = `tcc-ifbaiano.mw'.
 
  [1
@@ -2365,68 +2365,18 @@ l.110 \begin{document}
 ] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
-<tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf, id=64, 597.50829p
-t x 845.0471pt>
-File: tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf Graphic file 
-(type pdf)
-<use tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf>
-Package pdftex.def Info: tex/pre-textual/ficha-catalografica/ficha-catalografic
-a.pdf  used on input line 110.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf, id=66, page=1, 59
-7.50829pt x 845.0471pt>
-File: tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf Graphic file 
-(type pdf)
-<use tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf, page 1>
-Package pdftex.def Info: tex/pre-textual/ficha-catalografica/ficha-catalografic
-a.pdf , page1 used on input line 110.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf Graphic file 
-(type pdf)
-<use tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf, page 1>
-Package pdftex.def Info: tex/pre-textual/ficha-catalografica/ficha-catalografic
-a.pdf , page1 used on input line 110.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf Graphic file 
-(type pdf)
-<use tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf, page 1>
-Package pdftex.def Info: tex/pre-textual/ficha-catalografica/ficha-catalografic
-a.pdf , page1 used on input line 110.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf Graphic file 
-(type pdf)
-<use tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf, page 1>
-Package pdftex.def Info: tex/pre-textual/ficha-catalografica/ficha-catalografic
-a.pdf , page1 used on input line 110.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
-
-File: tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf Graphic file 
-(type pdf)
-<use tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf, page 1>
-Package pdftex.def Info: tex/pre-textual/ficha-catalografica/ficha-catalografic
-a.pdf , page1 used on input line 110.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-\openout4 = `tcc-ifbaiano.mw'.
-
-[2
-
- <./tex/pre-textual/ficha-catalografica/ficha-catalografica.pdf>]
-(tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
-
-Underfull \hbox (badness 4316) in paragraph at lines 110--110
+Underfull \hbox (badness 4316) in paragraph at lines 89--89
 \T1/phv/m/n/10 - Campus Guanambi, Ministry of Education as
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 110--110
+Underfull \hbox (badness 1019) in paragraph at lines 89--89
 \T1/phv/m/n/10 part of the requirements for obtaining the title of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []\T1/phv/m/n/10 Concentration Area: []Systems Analysis and
  []
 
@@ -2434,22 +2384,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--110
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[3
+[2
+
 
 ] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
- (tex/pre-textual/dedicatoria/dedicatoria.tex)
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[4
-
-] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-10.
+\c@count=\count538
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 8
+9.
 
 (/home/saviokslf/.miktex/texmfs/install/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -2459,89 +2402,21 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-(tex/pre-textual/agradecimentos/agradecimentos.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
-)
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[5
+[3
 
 
 {/home/saviokslf/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}]
 (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
- (tex/pre-textual/epigrafe/epigrafe.tex)
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[6
-
-] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
-\c@count=\count538
 
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[7
-
-
-] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
-
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[8
-
-
-] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
- (tcc-ifbaiano.lof)
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[9
-
-] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
- (tcc-ifbaiano.loq)
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[10
-
-] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
- (tcc-ifbaiano.loa)
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[11
-
-
-] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
-Package tocbasic Info: character protrusion at lol deactivated on input line 11
-0.
- (tcc-ifbaiano.lol)
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[12
+[4
 
 
 ] (tcc-ifbaiano.mw)
@@ -2551,46 +2426,29 @@ Package tocbasic Info: character protrusion at lol deactivated on input line 11
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[13
+[5
 
 ] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 
 No file tcc-ifbaiano.nls.
-(tcc-ifbaiano.los)
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[14
-
-
-
-] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
- (tcc-ifbaiano.toc
+(tcc-ifbaiano.toc
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 29.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
 (Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 29.
-
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[15
-
-] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
 )
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[16] (tcc-ifbaiano.mw)
+[6
+
+
+] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
-Package xypdf Info: Line width: 0.47987pt on input line 110.
+Package xypdf Info: Line width: 0.47987pt on input line 89.
 
 Cap\'{\i }tulo 1.
 (tex/introducao.tex
@@ -2609,7 +2467,7 @@ Overfull \hbox (1.87523pt too wide) in paragraph at lines 3--4
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[17
+[7
 
 
 ] (tcc-ifbaiano.mw)
@@ -2621,18 +2479,18 @@ Overfull \hbox (13.82236pt too wide) in paragraph at lines 15--16
 os de usabilidade e acessibilidade.
  []
 
-
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[18] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
 )
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[19] (tcc-ifbaiano.mw)
+[8] (tcc-ifbaiano.mw)
+\openout4 = `tcc-ifbaiano.mw'.
+
+
+
+\openout4 = `tcc-ifbaiano.mw'.
+
+[9] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 
@@ -2654,7 +2512,7 @@ s do sistema, além de realizar integrações
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[20
+[10
 
 ] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
@@ -2662,7 +2520,7 @@ s do sistema, além de realizar integrações
 
 Cap\'{\i }tulo 3.
 (tex/justificativa.tex)
-Overfull \hbox (23.41367pt too wide) in paragraph at lines 5--127
+Overfull \hbox (23.41367pt too wide) in paragraph at lines 5--106
 []\T1/ptm/m/n/12 (-20) Diante desse cenário, o desenvolvimento de um sistema we
 b especializado para monitoramento
  []
@@ -2671,7 +2529,7 @@ b especializado para monitoramento
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[21
+[11
 
 ] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
@@ -2688,7 +2546,7 @@ proporcionam. A ciência tem demonstrado
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[22
+[12
 
 ] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
@@ -2705,28 +2563,28 @@ Package babel Info: 'brazil' activates 'portuges' shorthands.
 (babel)             Reported on input line 22.
 \openout4 = `tcc-ifbaiano.mw'.
 
-[23] (tcc-ifbaiano.mw)
+[13] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[24] (tcc-ifbaiano.mw)
+[14] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[25] (tcc-ifbaiano.mw)
+[15] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 )
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[26] (tcc-ifbaiano.mw)
+[16] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 
@@ -2749,7 +2607,7 @@ Underfull \hbox (badness 2662) in paragraph at lines 27--28
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[27
+[17
 
 ] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
@@ -2765,21 +2623,21 @@ de Stanford, estrutura o desenvolvimento
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[28] (tcc-ifbaiano.mw)
+[18] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[29] (tcc-ifbaiano.mw)
+[19] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[30] (tcc-ifbaiano.mw)
+[20] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 
@@ -2806,14 +2664,14 @@ o
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[31] (tcc-ifbaiano.mw)
+[21] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[32] (tcc-ifbaiano.mw)
+[22] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 
@@ -2832,7 +2690,7 @@ panhamento. As \T1/ptm/m/it/12 (-20) Sprint Retrospectives
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[33] (tcc-ifbaiano.mw)
+[23] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 
@@ -2858,14 +2716,14 @@ ra garantir seu correto funcionamento,
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[34] (tcc-ifbaiano.mw)
+[24] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 )
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[35] (tcc-ifbaiano.mw)
+[25] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 
@@ -2874,7 +2732,7 @@ Cap\'{\i }tulo 6.
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[36
+[26
 
 ] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
@@ -2886,6 +2744,8 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
 ) (tcc-ifbaiano.bbl (tcc-ifbaiano.brf)
 \tf@brf=\write135
 \openout4 = `tcc-ifbaiano.brf'.
@@ -2894,7 +2754,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[37
+[27
 
 ] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
@@ -2911,7 +2771,7 @@ Overfull \hbox (18.96428pt too wide) in paragraph at lines 63--63
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[38
+[28
 
 ] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
@@ -2920,258 +2780,72 @@ Overfull \hbox (18.96428pt too wide) in paragraph at lines 63--63
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[39] (tcc-ifbaiano.mw)
+[29] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 )
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[40] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
-
-AP\^ENDICE A.
-
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[41
-
-] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
-
-AP\^ENDICE B.
-
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[42
-
-] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
-
-ANEXO A.
-
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-[43
-
-] (tcc-ifbaiano.mw)
-\openout4 = `tcc-ifbaiano.mw'.
-
-
-ANEXO B.
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-<packages/contra-capa.pdf, id=667, 599.51535pt x 847.05435pt>
+<packages/contra-capa.pdf, id=548, 599.51535pt x 847.05435pt>
 File: packages/contra-capa.pdf Graphic file (type pdf)
 <use packages/contra-capa.pdf>
-Package pdftex.def Info: packages/contra-capa.pdf  used on input line 231.
+Package pdftex.def Info: packages/contra-capa.pdf  used on input line 187.
 (pdftex.def)             Requested size: 599.51389pt x 847.05228pt.
-<packages/contra-capa.pdf, id=669, page=1, 599.51535pt x 847.05435pt>
+<packages/contra-capa.pdf, id=550, page=1, 599.51535pt x 847.05435pt>
 File: packages/contra-capa.pdf Graphic file (type pdf)
 <use packages/contra-capa.pdf, page 1>
-Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 23
-1.
+Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 18
+7.
 (pdftex.def)             Requested size: 599.51389pt x 847.05228pt.
 File: packages/contra-capa.pdf Graphic file (type pdf)
 <use packages/contra-capa.pdf, page 1>
-Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 23
-1.
+Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 18
+7.
 (pdftex.def)             Requested size: 598.01363pt x 844.93257pt.
 
 
 \openout4 = `tcc-ifbaiano.mw'.
 
-[44
-
-] (tcc-ifbaiano.mw)
+[30] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
 File: packages/contra-capa.pdf Graphic file (type pdf)
 <use packages/contra-capa.pdf, page 1>
-Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 23
-1.
+Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 18
+7.
 (pdftex.def)             Requested size: 598.01363pt x 844.93257pt.
 File: packages/contra-capa.pdf Graphic file (type pdf)
 <use packages/contra-capa.pdf, page 1>
-Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 23
-1.
+Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 18
+7.
 (pdftex.def)             Requested size: 598.01363pt x 844.93257pt.
 
 
 File: packages/contra-capa.pdf Graphic file (type pdf)
 <use packages/contra-capa.pdf, page 1>
-Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 23
-1.
+Package pdftex.def Info: packages/contra-capa.pdf , page1 used on input line 18
+7.
 (pdftex.def)             Requested size: 598.01363pt x 844.93257pt.
 \openout4 = `tcc-ifbaiano.mw'.
 
-[45
+[31
 
  <./packages/contra-capa.pdf>] (tcc-ifbaiano.mw)
 \openout4 = `tcc-ifbaiano.mw'.
 
-\tf@lof=\write136
-\openout4 = `tcc-ifbaiano.lof'.
-
-\tf@loq=\write137
-\openout4 = `tcc-ifbaiano.loq'.
-
-\tf@loa=\write138
-\openout4 = `tcc-ifbaiano.loa'.
-
-\tf@lol=\write139
-\openout4 = `tcc-ifbaiano.lol'.
-
-\tf@lot=\write140
+\tf@lot=\write136
 \openout4 = `tcc-ifbaiano.lot'.
 
-\tf@los=\write141
-\openout4 = `tcc-ifbaiano.los'.
-
-\tf@toc=\write142
+\tf@toc=\write137
 \openout4 = `tcc-ifbaiano.toc'.
 
 
 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (tcc-ifbaiano.aux
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
-\openout4 = `tcc-ifbaiano.mw'.
-
 \openout4 = `tcc-ifbaiano.mw'.
 
 \openout4 = `tcc-ifbaiano.mw'.
@@ -3675,43 +3349,27 @@ L3 programming layer <2020/03/25>
  ***********
 \openout4 = `tcc-ifbaiano.brf'.
 
-
-
-Package rerunfilecheck Warning: File `tcc-ifbaiano.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `tcc-ifbaiano.brf':
-(rerunfilecheck)             Before: 2E69CFF6A9881F5B7990CBB70C784D6A;3464
-(rerunfilecheck)             After:  041498ECF519AAE0D8F0F71E178B5BBA;3463.
+Package rerunfilecheck Info: File `tcc-ifbaiano.brf' has not changed.
+(rerunfilecheck)             Checksum: B416B0EFA074EABECDBF1CF396FE6D4D;3451.
 \openout4 = `tcc-ifbaiano.nlo'.
 
 \openout4 = `tcc-ifbaiano.glo'.
 
 \openout4 = `tcc-ifbaiano.idx'.
 
-\openout4 = `tcc-ifbaiano.lof'.
-
-\openout4 = `tcc-ifbaiano.loq'.
-
-\openout4 = `tcc-ifbaiano.loa'.
-
-\openout4 = `tcc-ifbaiano.lol'.
-
 \openout4 = `tcc-ifbaiano.lot'.
-
-\openout4 = `tcc-ifbaiano.los'.
 
 \openout4 = `tcc-ifbaiano.toc'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55136 strings out of 470018
- 1067278 string characters out of 5477468
- 1706198 words of memory out of 5000000
- 81049 multiletter control sequences out of 15000+600000
- 768293 words of font info for 457 fonts, out of 8000000 for 9000
+ 54698 strings out of 470018
+ 1057671 string characters out of 5477468
+ 1698025 words of memory out of 5000000
+ 80905 multiletter control sequences out of 15000+600000
+ 757085 words of font info for 422 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 125i,17n,121p,3260b,909s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,17n,121p,3260b,836s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/saviokslf/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb></home/saviokslf/.miktex/texmfs/install/fonts/type1/public/lm/lmss12.pfb><
 /home/saviokslf/.miktex/texmfs/install/fonts/type1/public/lm/lmssbo10.pfb></hom
@@ -3722,9 +3380,9 @@ f/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></home/saviokslf/.mik
 tex/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb></home/saviokslf/.miktex/t
 exmfs/install/fonts/type1/urw/times/utmr8a.pfb></home/saviokslf/.miktex/texmfs/
 install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tcc-ifbaiano.pdf (46 pages, 1793932 bytes).
+Output written on tcc-ifbaiano.pdf (32 pages, 1749328 bytes).
 PDF statistics:
- 927 PDF objects out of 1000 (max. 8388607)
- 162 named destinations out of 1000 (max. 500000)
- 118196 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 768 PDF objects out of 1000 (max. 8388607)
+ 117 named destinations out of 1000 (max. 500000)
+ 102717 words of extra memory for PDF output out of 106986 (max. 10000000)
 
